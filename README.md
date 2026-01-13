@@ -6,3 +6,6 @@ v 0.4 30 games ez
 v 0.5 2 apps idk
 v 0.6 read me updated
 v0.7 is v 0.6
+v 0.8 added 15 html games
+v 0.9 read me upd
+
